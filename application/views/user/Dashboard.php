@@ -218,11 +218,18 @@
 </div>
 <!-- Features End -->
 <!-- Client Start -->
-<div class="container-xxl align-content: center my-6 py-5 wow fadeInUp" data-wow-delay="0.1s">
+<!-- <div class="container-xxl align-content: center my-6 py-5 wow fadeInUp" data-wow-delay="0.1s">
     <div class="container">
         <div class="owl-carousel client-carousel">              
             <img class="img-fluid" src="img/bg1.jpg" style="width: 1200px; height: 250px">
         </div>
+    </div>
+</div> -->
+<div class="container d-flex justify-content-center wow fadeInUp" data-wow-delay="0.1s">
+    <div class="col col-md-8 col-lg-6">
+        <!-- <div class="owl-carousel client-carousel">               -->
+            <img class="img-fluid" src="img/bg1.jpg">
+        <!-- </div> -->
     </div>
 </div>
 <!-- Client End -->
